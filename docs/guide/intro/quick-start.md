@@ -113,7 +113,7 @@ async function main() {
 From this point on, there's lots to try out! Or, keep it simple and just use the basics.
 
 - [Node.js Setup](../node/README.md)
-- [Webpack Setup](../webpack/README.md)
+- [Webpack Setup](../bundlers/webpack.md)
 - [React Native Setup](../react-native/README.md)
 - [`$extends` directive for re-use](./extensions.md)
 - [`$env` directive environment specific variables](./extensions.md)
